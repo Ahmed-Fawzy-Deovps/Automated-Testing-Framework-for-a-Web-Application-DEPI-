@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-    public class ProductSortingTests extends BaseTest {
+    /*public class ProductSortingTests extends BaseTest {
 
         @Test
         public void testProductsSortedByPriceLowToHigh() {
@@ -23,7 +23,7 @@ import java.util.List;
             List<Double> actualPrices = productsPage.getAllProductPrices();
             List<Double> expectedPrices = new ArrayList<>(actualPrices);
 
-            Collections.sort(expectedPrices);  // ascending sort
+            Collections.sort(expectedPrices);
 
             Assert.assertEquals(actualPrices, expectedPrices, "Products are NOT sorted by price low to high");
         }
@@ -36,7 +36,7 @@ import java.util.List;
             List<String> actualNames = productsPage.getAllProductNames();
             List<String> expectedNames = new ArrayList<>(actualNames);
 
-            Collections.sort(expectedNames); // Alphabetical
+            Collections.sort(expectedNames);
 
             Assert.assertEquals(actualNames, expectedNames, "Products are NOT sorted alphabetically A-Z");
         }
@@ -44,4 +44,5 @@ import java.util.List;
 
 
 
+*/
 

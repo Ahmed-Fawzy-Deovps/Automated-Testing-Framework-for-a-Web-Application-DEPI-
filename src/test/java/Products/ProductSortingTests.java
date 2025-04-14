@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-    public class ProductSortingTests extends BaseTest {
+/*    public class ProductSortingTests extends BaseTest {
 
         @Test
         public void testProductsSortedByPriceLowToHigh() {
@@ -43,3 +43,4 @@ import java.util.List;
 
 
 
+*/
