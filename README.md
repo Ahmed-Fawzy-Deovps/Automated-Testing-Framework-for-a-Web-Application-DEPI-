@@ -10,6 +10,7 @@ Automated testing framework for DemoBlaze e-commerce website using modern testin
 - **CI/CD**: Jenkins
 - **Version Control**: GitHub
 - **Build Tool**: Maven
+- **DataBase** MySQL
 
 
 ## 📦 Prerequisites
@@ -36,11 +37,16 @@ Automated testing framework for DemoBlaze e-commerce website using modern testin
 ![image](https://github.com/user-attachments/assets/433f6693-9a32-4514-9a71-6aa924f607cd)
 ![image](https://github.com/user-attachments/assets/7151b421-7d14-4817-a07c-eca108f3c630)
 
+6. Data Base
+   ![WhatsApp Image 2025-04-12 at 22 20 04_58b6f0fa](https://github.com/user-attachments/assets/0a2bf9b7-5e63-4414-9e6c-8e4c5fd5c602)
+
+
 ✔️ Page Object Model design pattern
 ✔️ Data-driven testing with TestNG
 ✔️ API contract validation
 ✔️ Load testing with realistic scenarios
 ✔️ CI/CD integration
+
 
 Done by:
 Ahmed Fawzy Mesbah Abdo
