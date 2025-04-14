@@ -27,6 +27,15 @@ Automated testing framework for DemoBlaze e-commerce website using modern testin
 2. CI/CD Pipeline
  ![image](https://github.com/user-attachments/assets/9c133529-7646-4933-847a-9e0ff439b362)
 3. browser testing (Chrome/Firefox/Edge)
+4. API testing 
+![image](https://github.com/user-attachments/assets/3e659ae9-2ae1-4792-be2b-a44b28f3591a)
+![image](https://github.com/user-attachments/assets/2d81c0b6-2f21-46e4-a61d-4499bb7d3aa1)
+![image](https://github.com/user-attachments/assets/a7f52d5e-af9e-4223-b7cb-cf6a076bcb4b)
+5. Performance Testing
+   ![image](https://github.com/user-attachments/assets/679e3c07-c2d3-42ee-96d6-116299924832)
+![image](https://github.com/user-attachments/assets/433f6693-9a32-4514-9a71-6aa924f607cd)
+![image](https://github.com/user-attachments/assets/7151b421-7d14-4817-a07c-eca108f3c630)
+
 ✔️ Page Object Model design pattern
 ✔️ Data-driven testing with TestNG
 ✔️ API contract validation
