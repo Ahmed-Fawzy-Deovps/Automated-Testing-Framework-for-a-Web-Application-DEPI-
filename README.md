@@ -27,7 +27,7 @@ Automated testing framework for DemoBlaze e-commerce website using modern testin
    git clone (https://github.com/Ahmed-Fawzy-Deovps/Automated-Testing-Framework-for-a-Web-Application-DEPI-.git)
 2. CI/CD Pipeline
  ![image](https://github.com/user-attachments/assets/9c133529-7646-4933-847a-9e0ff439b362)
-3. browser testing (Chrome/Firefox/Edge)
+3. browser testing (Chrome)
 4. API testing 
 ![image](https://github.com/user-attachments/assets/3e659ae9-2ae1-4792-be2b-a44b28f3591a)
 ![image](https://github.com/user-attachments/assets/2d81c0b6-2f21-46e4-a61d-4499bb7d3aa1)
